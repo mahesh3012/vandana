@@ -104,11 +104,13 @@ i{
   }
  
 
-  @media screen and (max-width: 1000px){
+  @media screen and (max-width: 1600px){
     .navbar-nav li a{
       width:100%;
       display:block;
     }
- 
+    div{
+      font-size:4vmin;
+      }
   }
   
